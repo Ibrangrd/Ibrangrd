@@ -1,10 +1,10 @@
 #  Hi, I'm Md Ibran!
 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 🎓 Pursuing B.Tech in Mechanical Engineering from BIT Sindri  
 🌍 From Giridih, Jharkhand  
 💻 Skills: HTML, CSS, JavaScript, React, Tailwind CSS , c , c++.  
 🚀 Open-source Contributor | Problem Solver  
-
 ---
 - 
 <h1>## GSSOC(24) Badges 🪶<h1>
