@@ -6,8 +6,6 @@
 🚀 Open-source Contributor | Problem Solver  
 
 ---
-## 🌟 Projects
-- **[QR WEDS](https://qrweds.netlify.app/):** A smart wedding solution.
 - 
 <h1>## GSSOC(24) Badges 🪶<h1>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -22,7 +20,10 @@
 <hr>
 [![An image of @ibrangrd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ibrangrd)](https://holopin.io/@ibrangrd)
 
+<hr>
 
+## 🌟 Projects
+- **[QR WEDS](https://qrweds.netlify.app/):** A smart wedding solution.
 ---
 ---
 
