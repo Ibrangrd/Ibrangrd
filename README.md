@@ -1,12 +1,13 @@
 #  Hi, I'm Md Ibran!
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"><br> <br>
 🎓 Pursuing B.Tech in Mechanical Engineering from BIT Sindri  
 🌍 From Giridih, Jharkhand  
 💻 Skills: HTML, CSS, JavaScript, React, Tailwind CSS , c , c++.  
 🚀 Open-source Contributor | Problem Solver  
 ---
 - 
+<hr>
 <h1>## GSSOC(24) Badges 🪶<h1>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
