@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/md-ibran-831729293/">Md Ibran</a> </h1>
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"><br> <br>
-ABOUT ME
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"><br> <br> <br>
+👨🏻‍💻 *About Me*
 🎓 Pursuing B.Tech in Mechanical Engineering from BIT Sindri  
 🌍 From Giridih, Jharkhand  
 💻 Skills: HTML, CSS, JavaScript, React, Tailwind CSS , c , c++.  
