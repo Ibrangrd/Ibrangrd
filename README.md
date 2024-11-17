@@ -6,11 +6,18 @@
 🚀 Open-source Contributor | Problem Solver  
 
 ---
+<h1>## GSSOC(24) Badges 🪶<h1>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  </a>
+</div>
 
-## Achievements 🎉
-
-![Hacktoberfest 2024](https://www.holopin.io/@ibrangrd#badges)
-![GirlScript Summer of Code](https://img.shields.io/badge/GSSoC-Contributor-blue?style=for-the-badge&logo=github)
+<hr>
 
 I proudly contributed to Hacktoberfest 2024 and GirlScript Summer of Code (GSSoC), enhancing open-source projects and supporting the community.
 
