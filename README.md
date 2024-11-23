@@ -21,7 +21,7 @@
   </a>
 </div>
 <hr>
-<a href="https://www.holopin.io/@ibrangrd#">
+<a href="https://www.holopin.io/@ibrangrd#" target="main">
 <img src="https://holopin.me/ibrangrd"/>
 </a>
 
