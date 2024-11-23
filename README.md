@@ -21,7 +21,7 @@
   </a>
 </div>
 <hr>
-[![An image of @ibrangrd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ibrangrd)]
+<img src="https://holopin.me/ibrangrd"/>
 
 <hr>
 
