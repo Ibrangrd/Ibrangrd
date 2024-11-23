@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/md-ibran-831729293/">Md Ibran</a> </h1>
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"><br> <br> <br>
+<img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"><br> <br> <br>
 👨🏻‍💻 *About Me*
 <br>
 🎓 Pursuing B.Tech in Mechanical Engineering from BIT Sindri  
@@ -21,7 +21,7 @@
   </a>
 </div>
 <hr>
-[![An image of @ibrangrd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ibrangrd)](https://holopin.io/@ibrangrd)
+[![An image of @ibrangrd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ibrangrd)]
 
 <hr>
 
